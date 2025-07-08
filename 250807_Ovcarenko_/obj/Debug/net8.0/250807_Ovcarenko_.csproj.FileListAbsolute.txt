@@ -1,0 +1,14 @@
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\bin\Debug\net8.0\250807_Ovcarenko_.exe
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\bin\Debug\net8.0\250807_Ovcarenko_.deps.json
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\bin\Debug\net8.0\250807_Ovcarenko_.runtimeconfig.json
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\bin\Debug\net8.0\250807_Ovcarenko_.dll
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\bin\Debug\net8.0\250807_Ovcarenko_.pdb
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.AssemblyInfo.cs
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.dll
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\refint\250807_Ovcarenko_.dll
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.pdb
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\250807_Ovcarenko_.genruntimeconfig.cache
+C:\Users\navsteva\Desktop\250807_Ovcarenko_\250807_Ovcarenko_\obj\Debug\net8.0\ref\250807_Ovcarenko_.dll
