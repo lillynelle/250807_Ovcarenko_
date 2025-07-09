@@ -1,0 +1,14 @@
+C:\Users\navsteva\Desktop\08072025\08072025\bin\Debug\net8.0\08072025.exe
+C:\Users\navsteva\Desktop\08072025\08072025\bin\Debug\net8.0\08072025.deps.json
+C:\Users\navsteva\Desktop\08072025\08072025\bin\Debug\net8.0\08072025.runtimeconfig.json
+C:\Users\navsteva\Desktop\08072025\08072025\bin\Debug\net8.0\08072025.dll
+C:\Users\navsteva\Desktop\08072025\08072025\bin\Debug\net8.0\08072025.pdb
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.AssemblyInfo.cs
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.dll
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\refint\08072025.dll
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.pdb
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\08072025.genruntimeconfig.cache
+C:\Users\navsteva\Desktop\08072025\08072025\obj\Debug\net8.0\ref\08072025.dll

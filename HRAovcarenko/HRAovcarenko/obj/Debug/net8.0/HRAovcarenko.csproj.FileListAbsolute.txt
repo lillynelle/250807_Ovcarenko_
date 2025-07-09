@@ -1,0 +1,14 @@
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\bin\Debug\net8.0\HRAovcarenko.exe
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\bin\Debug\net8.0\HRAovcarenko.deps.json
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\bin\Debug\net8.0\HRAovcarenko.runtimeconfig.json
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\bin\Debug\net8.0\HRAovcarenko.dll
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\bin\Debug\net8.0\HRAovcarenko.pdb
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.AssemblyInfo.cs
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.dll
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\refint\HRAovcarenko.dll
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.pdb
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\HRAovcarenko.genruntimeconfig.cache
+C:\Users\navsteva\Desktop\HRAovcarenko\HRAovcarenko\obj\Debug\net8.0\ref\HRAovcarenko.dll

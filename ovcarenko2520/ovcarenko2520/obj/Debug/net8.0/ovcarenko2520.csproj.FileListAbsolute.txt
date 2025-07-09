@@ -1,0 +1,14 @@
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\bin\Debug\net8.0\ovcarenko2520.exe
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\bin\Debug\net8.0\ovcarenko2520.deps.json
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\bin\Debug\net8.0\ovcarenko2520.runtimeconfig.json
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\bin\Debug\net8.0\ovcarenko2520.dll
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\bin\Debug\net8.0\ovcarenko2520.pdb
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.AssemblyInfo.cs
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.dll
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\refint\ovcarenko2520.dll
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.pdb
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ovcarenko2520.genruntimeconfig.cache
+C:\Users\navsteva\Desktop\ovcarenko2520\ovcarenko2520\obj\Debug\net8.0\ref\ovcarenko2520.dll

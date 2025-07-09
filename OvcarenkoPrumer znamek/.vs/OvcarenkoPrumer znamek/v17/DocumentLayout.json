@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navsteva\\Desktop\\OvcarenkoPrumer znamek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6FAEEE-E8F2-4909-8E1D-61BBE0E0BA71}|OvcarenkoPrumer znamek\\OvcarenkoPrumer znamek.csproj|c:\\users\\navsteva\\desktop\\ovcarenkoprumer znamek\\ovcarenkoprumer znamek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6FAEEE-E8F2-4909-8E1D-61BBE0E0BA71}|OvcarenkoPrumer znamek\\OvcarenkoPrumer znamek.csproj|solutionrelative:ovcarenkoprumer znamek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\navsteva\\Desktop\\OvcarenkoPrumer znamek\\OvcarenkoPrumer znamek\\Program.cs",
+              "RelativeDocumentMoniker": "OvcarenkoPrumer znamek\\Program.cs",
+              "ToolTip": "C:\\Users\\navsteva\\Desktop\\OvcarenkoPrumer znamek\\OvcarenkoPrumer znamek\\Program.cs",
+              "RelativeToolTip": "OvcarenkoPrumer znamek\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:43:11.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
