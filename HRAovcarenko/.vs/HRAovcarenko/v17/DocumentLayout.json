@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\",
+  "WorkspaceRootPath": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51495AD2-86E9-4C56-8545-257233F7C72A}|HRAovcarenko\\HRAovcarenko.csproj|c:\\users\\navsteva\\desktop\\hraovcarenko\\hraovcarenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51495AD2-86E9-4C56-8545-257233F7C72A}|HRAovcarenko\\HRAovcarenko.csproj|c:\\users\\navsteva\\desktop\\250807_ovcarenko_\\hraovcarenko\\hraovcarenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51495AD2-86E9-4C56-8545-257233F7C72A}|HRAovcarenko\\HRAovcarenko.csproj|solutionrelative:hraovcarenko\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\Program.cs",
               "RelativeDocumentMoniker": "HRAovcarenko\\Program.cs",
-              "ToolTip": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\Program.cs",
+              "ToolTip": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\Program.cs",
               "RelativeToolTip": "HRAovcarenko\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwFcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T09:31:05.468Z",
               "EditorCaption": ""

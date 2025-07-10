@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj": {}
+    "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj": {
+    "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj",
+        "projectUniqueName": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj",
         "projectName": "HRAovcarenko",
-        "projectPath": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj",
+        "projectPath": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\HRAovcarenko.csproj",
         "packagesPath": "C:\\Users\\navsteva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navsteva\\Desktop\\HRAovcarenko\\HRAovcarenko\\obj\\",
+        "outputPath": "C:\\Users\\navsteva\\Desktop\\250807_Ovcarenko_\\HRAovcarenko\\HRAovcarenko\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
