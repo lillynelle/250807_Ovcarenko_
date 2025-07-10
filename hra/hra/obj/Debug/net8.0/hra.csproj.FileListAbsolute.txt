@@ -1,0 +1,14 @@
+C:\Users\navsteva\Desktop\hra\hra\bin\Debug\net8.0\hra.exe
+C:\Users\navsteva\Desktop\hra\hra\bin\Debug\net8.0\hra.deps.json
+C:\Users\navsteva\Desktop\hra\hra\bin\Debug\net8.0\hra.runtimeconfig.json
+C:\Users\navsteva\Desktop\hra\hra\bin\Debug\net8.0\hra.dll
+C:\Users\navsteva\Desktop\hra\hra\bin\Debug\net8.0\hra.pdb
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.AssemblyInfoInputs.cache
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.AssemblyInfo.cs
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.csproj.CoreCompileInputs.cache
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.dll
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\refint\hra.dll
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.pdb
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\hra.genruntimeconfig.cache
+C:\Users\navsteva\Desktop\hra\hra\obj\Debug\net8.0\ref\hra.dll
